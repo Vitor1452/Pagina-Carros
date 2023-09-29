@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Onest:wght@300&family=Roboto&display=swap');
+
+body {
+    font-family: 'Onest', sans-serif;
+}
+
+.container {
+    display: flex;
+}
+
+.sedans {
+    background-color: #E28827;
+    height: 45em;
+    width: 30em;
+    margin-left: 15em;
+}
+
+.sedans img {
+    margin-left: 8em;
+    margin-top: 3em;
+    height: 3em;
+}
+
+.sedans h1 {
+    margin-left: 6em;
+    color: white;
+    margin-top: -1.3em;
+    /* margin-bottom: 8em; */
+    font-size: 40px;
+}
+
+.sedans .texto1 {
+    padding: 67px;
+    font-size: 21px;
+    color: white;
+    text-align: center;
+}
+
+
+
+.suvs {
+    background-color: #00696F;
+    height: 45em;
+    width: 30em;
+}
+
+.suvs img {
+    margin-left: 8em;
+    margin-top: 3em;
+    height: 3em;
+}
+
+.suvs h1 {
+    margin-left: 6em;
+    color: white;
+    margin-top: -1.3em;
+    /* margin-bottom: 8em; */
+    font-size: 40px;
+}
+
+.suvs .texto2 {
+    padding: 67px;
+    font-size: 21px;
+    color: white;
+    text-align: center;
+}
+
+.luxury {
+    background-color: #004241;
+    height: 45em;
+    width: 30em;
+}
+
+.luxury img {
+    margin-left: 8em;
+    margin-top: 3em;
+    height: 3em;
+}
+
+
+.luxury h1 {
+    margin-left: 6em;
+    color: white;
+    margin-top: -1.3em;
+    /* margin-bottom: 8em; */
+    font-size: 40px;
+}
+
+.luxury .texto3 {
+    padding: 67px;
+    font-size: 21px;
+    color: white;
+    text-align: center;
+}
+
+.botao {
+    border: 2px solid white;
+    border-radius: 28px;
+    width: 113px;
+    height: 44px;
+    margin-left: 11em;
+
+}
+
+.botao p {
+    text-align: center;
+    color: white;
+    margin-top: 0.8em;
+}
